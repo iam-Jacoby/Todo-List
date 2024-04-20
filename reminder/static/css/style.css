@@ -1,0 +1,5 @@
+.body {
+    /* background-image: url("/reminder/static/images/Three\ Peaks\ of\ Lavaredo.png"); */
+    background-color: blueviolet;
+    /* background-image: "{% static 'Three Peaks of Lavaredo.png' %}"; */
+}
